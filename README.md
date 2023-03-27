@@ -1,1 +1,1 @@
-# Gerador-de-Senhas
+# Nesse projeto de Gerador de Senhas foi feito manipulação de HTML e CSS com DOM utilizando Javascript, além de funções desenvolvidas para edição desses elementos, com estruturas de decisão e repetição.
